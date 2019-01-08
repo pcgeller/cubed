@@ -1,0 +1,7 @@
+cube:
+  dimension: 4
+
+cubeSequence:
+  -1
+  -2
+  -1
